@@ -39,7 +39,18 @@ Host | IP Address | Network | Repeater |Hub | Bridge | Switch | Router |
 - Bridges learn which hosts are on which side (Help Contain Packets onlyto there relative networks).
 
 # Switches 
+- Facilitates communication within a network.
 - Switches are a combinations of a hub and repeater.
   - Multiple Ports.
   - Learns which hosts are on each port (Ensuring that communication occurs onthe relative ports).
   -All hosts in the network share the same ip address space.
+
+# Routers
+- Facilitates communication between networks.
+- Provides a traffic control point where security policies, filtering, redirecting can be handled.
+  - Routers learn which networks they are attached to.
+    - Known as routes - Stored in a routing table.
+    - Routing table - all networks a router knows about.
+
+- Have IP Addresses in the networks they are attached to.
+  - This IP addresses are GATEWAYS providing each host way out of their local network.
