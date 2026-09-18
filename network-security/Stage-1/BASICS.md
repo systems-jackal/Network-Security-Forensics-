@@ -19,3 +19,9 @@ Host, IP Address, Network
 -                    192   .  168   .    1   .  236
 -                  11000000.10101000.00000001.11101100
 -
+# Network 
+- Transports traffic between hosts.
+     - Logical Grouping of hosts which require similar connectivity.
+     - Networks can contain other networks.
+     - Sub-Networks(Subnet).
+-Internet-Network of networks
