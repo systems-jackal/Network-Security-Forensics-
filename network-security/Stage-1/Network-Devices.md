@@ -54,3 +54,6 @@ Host | IP Address | Network | Repeater |Hub | Bridge | Switch | Router |
 
 - Have IP Addresses in the networks they are attached to.
   - This IP addresses are GATEWAYS providing each host way out of their local network.
+  - Create the Hierarchy in networks and the entire internet.
+
+# -(Routers facilitate communication between networks while switches facilitate communication within the network)-
