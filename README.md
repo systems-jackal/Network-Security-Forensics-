@@ -13,7 +13,7 @@ Networking fundamentals → network security → traffic analysis → flow monit
 
 | Stage | Focus | Status |
 |---|---|---|
-| [Stage 1](./networking-security/stage1-networking) | OSI/TCP-IP fundamentals, subnetting, lab setup | 🔄 In progress |
+| [Stage 1](./networking-security/stage1-networking) | OSI/TCP-IP fundamentals, subnetting, lab setup |  In progress |
 | [Stage 2](./networking-security/stage2-network-security) | Firewalls, VPNs, common attacks (ARP/DNS spoofing, scanning) | ⬜ Not started |
 | [Stage 3](./networking-security/stage3-traffic-analysis) | Wireshark/tcpdump, pcap analysis | ⬜ Not started |
 | [Stage 4](./networking-security/stage4-flow-monitoring) | Zeek, Suricata, flow-based detection | ⬜ Not started |
@@ -24,7 +24,7 @@ Filesystem & permissions, processes & services, shell scripting, users & groups 
 
 | Area | Status |
 |---|---|
-| Filesystem & permissions | ⬜ Not started |
+| Filesystem & permissions |  In Progress |
 | Processes & services | ⬜ Not started |
 | Shell scripting | ⬜ Not started |
 | Users & groups | ⬜ Not started |
